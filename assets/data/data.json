@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "name": "dumbbells",
+      "image": "assets/images/dumbbells-exercise_1.png",
+      "color": "0xffe5b3fe",
+      "exercises": [
+        {
+          "name": "Dumbbells exercise 1",
+          "image": "assets/images/dumbbells-exercise_2.png",
+          "level": 4,
+          "video_length": "31min",
+          "color": "0xfffec5bb"
+        },
+        {
+          "name": "Dumbbells exercise 2",
+          "image": "assets/images/dumbbells-exercise.png",
+          "level": 3,
+          "video_length": "24min",
+          "color": "0xfffec89a"
+        }
+      ]
+    },
+    {
+      "name": "physical",
+      "image": "assets/images/physical-exercise_1.png",
+      "color": "0xfffec89a",
+      "exercises": [
+        {
+          "name": "Physical exercise 1",
+          "image": "assets/images/physical-exercise_2.png",
+          "level": 4,
+          "video_length": "30min",
+          "color": "0xffece4db"
+        },
+        {
+          "name": "Physical exercise 2",
+          "image": "assets/images/physical-exercise.png",
+          "level": 5,
+          "video_length": "10min",
+          "color": "0xffe8e8e4"
+        }
+      ]
+    },
+    {
+      "name": "yoga",
+      "image": "assets/images/yoga.png",
+      "color": "0xffcaf0f8",
+      "exercises": [
+        {
+          "name": "Yoga 1",
+          "image": "assets/images/yoga_1.png",
+          "level": 4,
+          "video_length": "12min",
+          "color": "0xfff8edeb"
+        },
+        {
+          "name": "Yoga 2",
+          "image": "assets/images/yoga_2.png",
+          "level": 3,
+          "video_length": "18min",
+          "color": "0xfffae1dd"
+        },
+        {
+          "name": "Yoga 3",
+          "image": "assets/images/yoga_3.png",
+          "level": 3,
+          "video_length": "15min",
+          "color": "0xffc1d3fe"
+        }
+      ]
+    },
+    {
+      "name": "ring exercise",
+      "image": "assets/images/ring-exercise.png",
+      "color": "0xfffec89a",
+      "exercises":[]
+    }
+  ]
+}
